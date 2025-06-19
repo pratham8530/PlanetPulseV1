@@ -47,7 +47,7 @@ Simulate your AI core powering up → 100% → Portal morph → Platform launch.
 Clone the repository and launch the dev server in 3 steps:
 
 ```bash
-git clone https://github.com/your-username/planet-pulse.git
+git clone https://github.com/pratham8530/PlanetPulseV1.git
 cd planet-pulse
 npm install
 npm run dev
